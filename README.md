@@ -34,7 +34,7 @@ The Miners Safety Monitoring System is an embedded IoT solution designed to enha
 
 ## Circuit Diagram
 
-Include a schematic or description of how to connect the hardware components.
+![Circuit Diagram](Circuit.jpg)
 
 ## Installation and Setup
 
