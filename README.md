@@ -40,7 +40,7 @@ Include a schematic or description of how to connect the hardware components.
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/rdbhaiya/Safety-Device-For-Mining-Workers-Using-IoT.git
+    git clone [https://github.com/rdbhaiya/Safety-Device-For-Mining-Workers-Using-IoT.git](https://github.com/rdbhaiya/Safety-Device-For-Mining-Workers-Using-IoT-.git)
     ```
 
 2. **Open the project in Arduino IDE**:
