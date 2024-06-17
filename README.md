@@ -106,3 +106,13 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 - Thanks to the developers of the libraries used in this project.
 - Special thanks to the Blynk team for providing the platform for remote monitoring.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Feel free to reach out if you have any questions or suggestions!
+
+Happy coding! 😊
